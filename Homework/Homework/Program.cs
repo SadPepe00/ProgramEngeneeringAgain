@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("wow Ferm's theorem is true");
+            Console.WriteLine("wow Ferm's theorem is true")
+
         }
     }
 }
